@@ -62,6 +62,7 @@ function activello_setup() {
   add_theme_support( 'post-thumbnails' );
 
   add_image_size( 'activello-featured', 1170, 550, true );
+  add_image_size( 'activello-featured-optimized', 700, 330, array( 'center', 'center' ) );
   add_image_size( 'activello-slider', 1920, 550, true );
   add_image_size( 'activello-thumbnail', 330, 220, true );
   add_image_size( 'activello-medium', 640, 480, true );
