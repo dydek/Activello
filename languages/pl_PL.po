@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Sparkling Theme\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-20 19:57+0100\n"
-"PO-Revision-Date: 2015-12-20 20:00+0100\n"
+"PO-Revision-Date: 2015-12-20 20:15+0100\n"
 "Last-Translator: Aigars Silkalns <a.silkalns@gmail.com>\n"
 "Language-Team: colorlib <info@colorlib.com>\n"
 "Language: pl\n"
@@ -261,7 +261,7 @@ msgstr ""
 #: ../header.php:50
 msgctxt "search placeholder"
 msgid "Search and hit enter..."
-msgstr ""
+msgstr "Wyszukaj ..."
 
 #: ../header.php:51 ../searchform.php:14
 msgctxt "submit button"
